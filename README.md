@@ -5,7 +5,7 @@ Adding [coffee](coffee) variants of examples as we work through it.
 
 ## See also
 
-* [nodeschool](http://nodeschool.io)'s [functional-js](https://github.com/joyrexus/nodeschool/tree/master/functional-js) track.
+* [nodeschool](http://nodeschool.io)'s [functional-js](https://github.com/joyrexus/nodeschool/tree/master/functional-js) track
 
 * [coffeescript-ristretto](https://leanpub.com/coffeescript-ristretto/read)
 
