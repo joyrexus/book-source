@@ -7,6 +7,8 @@ Adding [coffee](coffee) variants of examples as we work through it.
 
 * [nodeschool](http://nodeschool.io)'s [functional-js](https://github.com/joyrexus/nodeschool/tree/master/functional-js) track
 
+* [learnrx](http://reactive-extensions.github.io/learnrx/)
+
 * [coffeescript-ristretto](https://leanpub.com/coffeescript-ristretto/read)
 
 * [javascript-allonge](https://github.com/raganwald/javascript-allonge)
