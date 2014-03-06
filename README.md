@@ -1,6 +1,8 @@
 [Source](source) for [Functional JavaScript](http://www.functionaljavascript.com).
 
-Adding [coffee](coffee) variants of examples as we work through it.
+Adding [literate coffeescript](http://coffeescript.org/#literate) [variants](coffee) of examples as we work through the text.
+
+Note [errata](http://www.oreilly.com/catalog/errata.csp?isbn=0636920028857)!
 
 
 ## See also
