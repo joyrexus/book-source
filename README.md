@@ -4,26 +4,26 @@ Adding [literate coffeescript](http://coffeescript.org/#literate) [variants](cof
 
 ## Reference
 
-* [errata](http://www.oreilly.com/catalog/errata.csp?isbn=0636920028857)!
+* [errata](http://www.oreilly.com/catalog/errata.csp?isbn=0636920028857)
 
-* [underscore](http://underscorejs.org/)
+* [underscore](http://underscorejs.org/) - handy doc site
 
 * [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) -
   various underscore extensions.  The library currently contains a number 
   of related capabilities, aggregated into the following files:
-  * `array.builders` - functions to build arrays
-  * `array.selectors` - functions to take things from arrays
-  * `collections.walk` - functions to walk and transform nested JavaScript objects
-  * `function.arity` - functions to manipulate and fix function argument arity
-  * `function.combinators` - functions to combine functions to make new functions
-  * `function.iterators` - functions to lazily produce, manipulate and consume sequence iterators
-  * `function.predicates` - functions that return true or false based on some criteria
-  * `object.builders` - functions to build JavaScript objects
-  * `object.selectors` - functions to pick things from JavaScript objects
+  * `array.builders` - to build arrays
+  * `array.selectors` - to take things from arrays
+  * `collections.walk` - to walk and transform nested JavaScript objects
+  * `function.arity` - to manipulate and fix function argument arity
+  * `function.combinators` - to combine to make new functions
+  * `function.iterators` - to lazily produce, manipulate and consume sequence iterators
+  * `function.predicates` - that return true or false based on some criteria
+  * `object.builders` - to build JavaScript objects
+  * `object.selectors` - to pick things from JavaScript objects
   * `util.existential` - functions that check for the existence or truthiness of JavaScript data types
   * `util.operators` - functions that wrap common (or missing) JavaScript operators
-  * `util.strings` - functions to work with strings
-  * `util.trampolines` - functions to facilitate calling functions recursively without blowing the stack
+  * `util.strings` - to work with strings
+  * `util.trampolines` - to facilitate calling functions recursively without blowing the stack
 
 
 ## See also
