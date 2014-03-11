@@ -6,6 +6,8 @@ Adding [literate coffeescript](http://coffeescript.org/#literate) [variants](cof
 
 * [errata](http://www.oreilly.com/catalog/errata.csp?isbn=0636920028857)
 
+* [js arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) - MDN quick ref for native javascript array objects
+
 * [underscore](http://underscorejs.org/) - handy doc site
 
 * [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) -
@@ -24,6 +26,7 @@ Adding [literate coffeescript](http://coffeescript.org/#literate) [variants](cof
   * `util.operators` - functions that wrap common (or missing) JavaScript operators
   * `util.strings` - to work with strings
   * `util.trampolines` - to facilitate calling functions recursively without blowing the stack
+
 
 
 ## See also
