@@ -1,6 +1,15 @@
-[Source](source) for [Functional JavaScript](http://www.functionaljavascript.com).
+Fork of the [source code examples](source) from the book [Functional JavaScript](http://www.functionaljavascript.com).
 
-Adding [literate coffeescript](http://coffeescript.org/#literate) [variants](coffee) of examples as we work through the text.
+We're adding [literate coffeescript](http://coffeescript.org/#literate) [variants](coffee) of examples as we work through the text.
+
+* [Introducing Functional CoffeeScript](coffee/1.coffee.md)
+* [First-Class Functions and Applicative Programming](coffee/2.coffee.md)
+* [Variable Scope and Closures](coffee/3.coffee.md)
+* Higher Order Functions
+* Purity, Immutability, and Policies for Change
+* Flow-Based Programming
+* Programming Without Class
+
 
 ## Reference
 
@@ -28,7 +37,6 @@ Adding [literate coffeescript](http://coffeescript.org/#literate) [variants](cof
   * `util.trampolines` - to facilitate calling functions recursively without blowing the stack
 
 
-
 ## See also
 
 * [nodeschool](http://nodeschool.io)'s [functional-js](https://github.com/joyrexus/nodeschool/tree/master/functional-js) track
@@ -38,4 +46,3 @@ Adding [literate coffeescript](http://coffeescript.org/#literate) [variants](cof
 * [coffeescript-ristretto](https://leanpub.com/coffeescript-ristretto/read)
 
 * [javascript-allonge](https://github.com/raganwald/javascript-allonge)
-
