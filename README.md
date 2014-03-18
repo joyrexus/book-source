@@ -5,7 +5,7 @@ We're adding [literate coffeescript](http://coffeescript.org/#literate) [variant
 * [Introducing Functional CoffeeScript](coffee/1.coffee.md)
 * [First-Class Functions and Applicative Programming](coffee/2.coffee.md)
 * [Variable Scope and Closures](coffee/3.coffee.md)
-* Higher Order Functions
+* [Higher Order Functions](coffee/4.coffee.md)
 * Function Building Functions
 * Recursion
 * Purity, Immutability, and Policies for Change
