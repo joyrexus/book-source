@@ -49,4 +49,6 @@ We're adding [literate coffeescript](http://coffeescript.org/#literate) [variant
 
 * [javascript-allonge](https://github.com/raganwald/javascript-allonge)
 
-* [pytoolz](http://toolz.readthedocs.org) - for writing functional python
+* [functional-python](https://github.com/mrocklin/pydata-toolz) - nice
+  tutorial demonstrating functional python with 
+  [PyToolz](http://matthewrocklin.com/blog/work/2013/10/17/Introducing-PyToolz/).
