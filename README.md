@@ -48,3 +48,5 @@ We're adding [literate coffeescript](http://coffeescript.org/#literate) [variant
 * [coffeescript-ristretto](https://leanpub.com/coffeescript-ristretto/read)
 
 * [javascript-allonge](https://github.com/raganwald/javascript-allonge)
+
+* [pytoolz](http://toolz.readthedocs.org) - for writing functional python
