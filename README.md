@@ -52,3 +52,7 @@ We're adding [literate coffeescript](http://coffeescript.org/#literate) [variant
 * [functional-python](https://github.com/mrocklin/pydata-toolz) - nice
   tutorial demonstrating functional python with 
   [PyToolz](http://matthewrocklin.com/blog/work/2013/10/17/Introducing-PyToolz/).
+
+* [shape-of-fun](https://github.com/funjs/shape-of-fun) - slides for the talk
+  *The Shape of Functional Programming*.
+
